@@ -1,6 +1,0 @@
-/* This CSS file contains styles only for the Product component. Each component in the project has its own CSS file to keep styling organized. */
-.Product {
-    border: 1px solid black;
-    border-radius: 24px;
-    margin-bottom: 10px;
-}
